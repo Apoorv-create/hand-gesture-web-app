@@ -1,0 +1,19 @@
+body{
+    background: lightblue;
+}
+.heading{
+    font-size: 20px;
+    word-spacing: 9px;
+}
+
+.emoji{
+    font-size: 48px;
+}
+
+label{
+    font-size: 15px;
+    border-radius: 30px;
+    background: lightgreen;
+    color: whitesmoke;
+    padding: 6px;
+}
